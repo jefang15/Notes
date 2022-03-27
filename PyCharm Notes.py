@@ -24,15 +24,20 @@
 #   616E88 (grey)
 #   B0BBD0 (brighter grey/change to this)
 
-
 " Color Theme "
 # Preferences > Appearance & Behavior > Appearance > Theme
+
+" Delete Line "
+# Command + Delete
 
 " Download Modules"
 #  View > Tool Windows > Python Packages
 
 " Download Packages "
 # Preferences > Project > Python Interpreter > Click 'Install' or Command + N
+
+" Duplicate Line "
+# Command + D
 
 " Keymap "
 # Preferences > Keymap
