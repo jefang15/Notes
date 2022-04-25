@@ -10,39 +10,46 @@
 
 " Color Settings "
 # Text: Preferences > Editor > Color Scheme > General > Text > Default Text
-#   D8DEE9 (default off white)
+#   D8DEE9 (Nordic default off white)
 # Comments: Preferences > Editor > Color Scheme > Language Defaults > Comments > Line Comment
-#   616E88 (default grey)
+#   616E88 (Nordic default grey)
 #   758198 (lighter than default grey)
-#   D8DEE9 (default off white)
+#   D8DEE9 (Nordic default off white)
 # Comments: Preferences > Editor > Color Scheme > Python > Line Comment
-#   616E88 (default grey)
-#   D8DEE9 (default off white)
+#   616E88 (Nordic default grey)
+#   D8DEE9 (Nordic default off white)
 # Functions: Preferences > Editor > Python > Functions
 #   88C0D0 (blue)
 # Text within triple and double quotes: Preferences > Editor > Color Scheme > Python > String > Text (unicode)
-#   A3BE8C (green)
+#   A3BE8C (Nordic default green)
 #   D7BA7D (mustard)
 # Numbers: Preferences > Editor > Color Scheme > Python > Number
+#   B48EAD (Nordic default purple)
 #   EF9E4F (orange)
 #   F1969F (pink)
 #   A3BE8C (green)
-#   B48EAD (purple)
 # Highlight: Preferences > Editor > General > Selection Background
 #   BF616A (pepto bismol)
 #   10A5BD (bright blue)
+#   405476 (grey blue)
 # Background: Preferences > Editor > Color Scheme > General > Text > Default Text > Background
 #   2E3440 (grey)
 # Keyword: Preferences > Editor > Color Scheme > Language Defaults > Keyword
-#   81A1C1 (default blue)
-#   B48EAD (purple)
+#   81A1C1 (Nordic default blue)
+#   B48EAD (Nordic default purple)
 # Keyword: Preferences > Editor > Color Scheme > Python > Keyword
-#   81A1C1 (default blue)
-#   B48EAD (purple)
-# Built-in Name: Preferences > Editor > Color Scheme > Python > Braces and Operators > Built-in Name
-#   81A1C1 (default blue)
+#   81A1C1 (Nordic default blue)
+#   B48EAD (Nordic default purple)
+# Built-in Name: Preferences > Editor > Color Scheme > Python > Built-in Name
+#   81A1C1 (Nordic default blue)
 #   FFC1F3 (pink/purple)
-
+# Other colors
+#   405476 (grey blue)
+#   76404D (wine red)
+# Dot/Comma: Preferences > Editor > Color Scheme > Language Defaults
+#   ECEFF4 (Nordic default white)
+# Operation Sign: Preferences > Editor > Color Scheme > Language Defaults
+#   81A1C1 (Nordic default grey/blue)
 
 
 " Color Theme "
@@ -70,7 +77,7 @@ y = 3; x = 4; print(x+y)
 # Preferences > Plugins
 
 " Preferences "
-# Command + ,
+# Command + P
 
 " Run Code "
 # Run code in Python Console: Shift + Enter
