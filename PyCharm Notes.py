@@ -20,6 +20,7 @@
 #   D8DEE9 (Nordic default off white)
 # Functions: Preferences > Editor > Python > Functions
 #   88C0D0 (blue)
+# Text within triple and double quotes: Preferences > Editor > Color Scheme > Language Defaults > String > Text (unicode)
 # Text within triple and double quotes: Preferences > Editor > Color Scheme > Python > String > Text (unicode)
 #   A3BE8C (Nordic default green)
 #   D7BA7D (mustard)
@@ -28,15 +29,14 @@
 #   EF9E4F (orange)
 #   F1969F (pink)
 #   A3BE8C (green)
-# Highlight: Preferences > Editor > General > Selection Background
+# Highlight: Preferences > Editor > General > Editor > Selection Background
+#   434C5E (Nordic default grey)
 #   BF616A (pepto bismol)
 #   10A5BD (bright blue)
 #   405476 (grey blue)
 # Background: Preferences > Editor > Color Scheme > General > Text > Default Text > Background
 #   2E3440 (grey)
 # Keyword: Preferences > Editor > Color Scheme > Language Defaults > Keyword
-#   81A1C1 (Nordic default blue)
-#   B48EAD (Nordic default purple)
 # Keyword: Preferences > Editor > Color Scheme > Python > Keyword
 #   81A1C1 (Nordic default blue)
 #   B48EAD (Nordic default purple)
