@@ -42,7 +42,7 @@
 #   B48EAD (Nordic default purple)
 # Built-in Name: Preferences > Editor > Color Scheme > Python > Built-in Name
 #   81A1C1 (Nordic default blue)
-#   FFC1F3 (pink/purple)
+#   FF97A1 (pink/purple)
 # Other colors
 #   405476 (grey blue)
 #   76404D (wine red)
